@@ -104,6 +104,7 @@ var cnItems = {
     "Congrats, you helped Trump win an election": "恭喜，你帮助特朗普赢得了选举",
     "You Won!": "你赢了！",
     "You Beat the Game": "你通关了",
+    "Congrats, you helped Trump win an election!": "恭喜，你帮助特朗普赢得了选举！",
     "": "",
     "": "",
     "": "",
